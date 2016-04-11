@@ -5,4 +5,4 @@ A monkey, Tyrone, is equipped with a machine gun stationed on the far left side 
 Use the up and down arrows to move Tyrone up and down the screen and use the space key to operate his machine gun.
 Good Luck and Have Fun!
 
-<img src="http://static.tumblr.com/2gt4nre/iwBm4ohwn/lots_of_bananas.jpeg" alt="Mountain View" style="width:304px;height:228px;">
+<img src="http://static.tumblr.com/2gt4nre/iwBm4ohwn/lots_of_bananas.jpeg" alt="Banaas" style="width:204px;height:128px;">
